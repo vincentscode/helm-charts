@@ -6,6 +6,6 @@ updates:
       interval: "daily"
 
   - package-ecosystem: "docker"
-    directory: "/charts/nextcloud"
+    directory: "/charts/**/*"
     schedule:
       interval: "daily"
