@@ -18,4 +18,4 @@ rm -rf <chart-name>/charts
 ```
 
 ### Packaging a chart
-Charts are packaged automatically by github actions using the [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action).
+Charts are packaged automatically by github actions using [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action).

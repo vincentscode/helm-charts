@@ -6,6 +6,7 @@ updates:
       interval: "daily"
 
   - package-ecosystem: "docker"
-    directory: "/charts/**/*"
+    directories:
+      - "/charts/**/*"
     schedule:
       interval: "daily"
